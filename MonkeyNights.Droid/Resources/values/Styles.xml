@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<style name="MonkeyTheme" parent="BaseTheme">
+	</style>
+	<style name="BaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="windowNoTitle">true</item>
+		<item name="windowActionBar">false</item>
+		<item name="colorPrimary">@color/Primary</item>
+		<item name="colorPrimaryDark">@color/PrimaryDark</item>
+		<item name="colorAccent">@color/Accent</item>
+	</style>
+	<style name="Theme.Splash" parent="android:Theme">
+		<item name="android:windowBackground">@color/SplashGray</item>
+		<item name="android:windowNoTitle">true</item>
+	</style>
+</resources>

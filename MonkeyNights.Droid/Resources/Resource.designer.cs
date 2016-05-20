@@ -1030,32 +1030,56 @@ namespace MonkeyNights.Droid
 		public partial class Color
 		{
 			
+			// aapt resource value: 0x7f090047
+			public const int Accent = 2131296327;
+			
+			// aapt resource value: 0x7f09004a
+			public const int Divider = 2131296330;
+			
 			// aapt resource value: 0x7f090044
-			public const int abc_background_cache_hint_selector_material_dark = 2131296324;
+			public const int Primary = 2131296324;
 			
 			// aapt resource value: 0x7f090045
-			public const int abc_background_cache_hint_selector_material_light = 2131296325;
+			public const int PrimaryDark = 2131296325;
 			
 			// aapt resource value: 0x7f090046
-			public const int abc_color_highlight_material = 2131296326;
+			public const int PrimaryLight = 2131296326;
+			
+			// aapt resource value: 0x7f090048
+			public const int PrimaryText = 2131296328;
+			
+			// aapt resource value: 0x7f090049
+			public const int SecondaryText = 2131296329;
+			
+			// aapt resource value: 0x7f09004b
+			public const int SplashGray = 2131296331;
+			
+			// aapt resource value: 0x7f09004c
+			public const int abc_background_cache_hint_selector_material_dark = 2131296332;
+			
+			// aapt resource value: 0x7f09004d
+			public const int abc_background_cache_hint_selector_material_light = 2131296333;
+			
+			// aapt resource value: 0x7f09004e
+			public const int abc_color_highlight_material = 2131296334;
 			
 			// aapt resource value: 0x7f09000a
 			public const int abc_input_method_navigation_guard = 2131296266;
 			
-			// aapt resource value: 0x7f090047
-			public const int abc_primary_text_disable_only_material_dark = 2131296327;
+			// aapt resource value: 0x7f09004f
+			public const int abc_primary_text_disable_only_material_dark = 2131296335;
 			
-			// aapt resource value: 0x7f090048
-			public const int abc_primary_text_disable_only_material_light = 2131296328;
+			// aapt resource value: 0x7f090050
+			public const int abc_primary_text_disable_only_material_light = 2131296336;
 			
-			// aapt resource value: 0x7f090049
-			public const int abc_primary_text_material_dark = 2131296329;
+			// aapt resource value: 0x7f090051
+			public const int abc_primary_text_material_dark = 2131296337;
 			
-			// aapt resource value: 0x7f09004a
-			public const int abc_primary_text_material_light = 2131296330;
+			// aapt resource value: 0x7f090052
+			public const int abc_primary_text_material_light = 2131296338;
 			
-			// aapt resource value: 0x7f09004b
-			public const int abc_search_url_text = 2131296331;
+			// aapt resource value: 0x7f090053
+			public const int abc_search_url_text = 2131296339;
 			
 			// aapt resource value: 0x7f09000b
 			public const int abc_search_url_text_normal = 2131296267;
@@ -1066,11 +1090,11 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f09000d
 			public const int abc_search_url_text_selected = 2131296269;
 			
-			// aapt resource value: 0x7f09004c
-			public const int abc_secondary_text_material_dark = 2131296332;
+			// aapt resource value: 0x7f090054
+			public const int abc_secondary_text_material_dark = 2131296340;
 			
-			// aapt resource value: 0x7f09004d
-			public const int abc_secondary_text_material_light = 2131296333;
+			// aapt resource value: 0x7f090055
+			public const int abc_secondary_text_material_light = 2131296341;
 			
 			// aapt resource value: 0x7f09000e
 			public const int accent_material_dark = 2131296270;
@@ -1258,11 +1282,11 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f090041
 			public const int switch_thumb_disabled_material_light = 2131296321;
 			
-			// aapt resource value: 0x7f09004e
-			public const int switch_thumb_material_dark = 2131296334;
+			// aapt resource value: 0x7f090056
+			public const int switch_thumb_material_dark = 2131296342;
 			
-			// aapt resource value: 0x7f09004f
-			public const int switch_thumb_material_light = 2131296335;
+			// aapt resource value: 0x7f090057
+			public const int switch_thumb_material_light = 2131296343;
 			
 			// aapt resource value: 0x7f090042
 			public const int switch_thumb_normal_material_dark = 2131296322;
@@ -1849,7 +1873,13 @@ namespace MonkeyNights.Droid
 			public const int design_snackbar_background = 2130837580;
 			
 			// aapt resource value: 0x7f02004d
-			public const int notification_template_icon_bg = 2130837581;
+			public const int ic_launcher = 2130837581;
+			
+			// aapt resource value: 0x7f02004e
+			public const int Logo = 2130837582;
+			
+			// aapt resource value: 0x7f02004f
+			public const int notification_template_icon_bg = 2130837583;
 			
 			static Drawable()
 			{
@@ -1870,8 +1900,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a000c
 			public const int MvxBindingTagUnique = 2131361804;
 			
-			// aapt resource value: 0x7f0a0075
-			public const int action0 = 2131361909;
+			// aapt resource value: 0x7f0a0074
+			public const int action0 = 2131361908;
 			
 			// aapt resource value: 0x7f0a005c
 			public const int action_bar = 2131361884;
@@ -1897,8 +1927,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a005d
 			public const int action_context_bar = 2131361885;
 			
-			// aapt resource value: 0x7f0a0079
-			public const int action_divider = 2131361913;
+			// aapt resource value: 0x7f0a0078
+			public const int action_divider = 2131361912;
 			
 			// aapt resource value: 0x7f0a0003
 			public const int action_menu_divider = 2131361795;
@@ -1933,8 +1963,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0046
 			public const int buttonPanel = 2131361862;
 			
-			// aapt resource value: 0x7f0a0076
-			public const int cancel_action = 2131361910;
+			// aapt resource value: 0x7f0a0075
+			public const int cancel_action = 2131361909;
 			
 			// aapt resource value: 0x7f0a0016
 			public const int center = 2131361814;
@@ -1948,8 +1978,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0054
 			public const int checkbox = 2131361876;
 			
-			// aapt resource value: 0x7f0a007c
-			public const int chronometer = 2131361916;
+			// aapt resource value: 0x7f0a007b
+			public const int chronometer = 2131361915;
 			
 			// aapt resource value: 0x7f0a001f
 			public const int clip_horizontal = 2131361823;
@@ -1999,8 +2029,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0019
 			public const int end = 2131361817;
 			
-			// aapt resource value: 0x7f0a0081
-			public const int end_padder = 2131361921;
+			// aapt resource value: 0x7f0a0080
+			public const int end_padder = 2131361920;
 			
 			// aapt resource value: 0x7f0a000d
 			public const int enterAlways = 2131361805;
@@ -2044,8 +2074,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0041
 			public const int image = 2131361857;
 			
-			// aapt resource value: 0x7f0a0080
-			public const int info = 2131361920;
+			// aapt resource value: 0x7f0a007f
+			public const int info = 2131361919;
 			
 			// aapt resource value: 0x7f0a000a
 			public const int item_touch_helper_previous_elevation = 2131361802;
@@ -2053,11 +2083,11 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a001b
 			public const int left = 2131361819;
 			
-			// aapt resource value: 0x7f0a007a
-			public const int line1 = 2131361914;
+			// aapt resource value: 0x7f0a0079
+			public const int line1 = 2131361913;
 			
-			// aapt resource value: 0x7f0a007e
-			public const int line3 = 2131361918;
+			// aapt resource value: 0x7f0a007d
+			public const int line3 = 2131361917;
 			
 			// aapt resource value: 0x7f0a0027
 			public const int listMode = 2131361831;
@@ -2065,8 +2095,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0043
 			public const int list_item = 2131361859;
 			
-			// aapt resource value: 0x7f0a0078
-			public const int media_actions = 2131361912;
+			// aapt resource value: 0x7f0a0077
+			public const int media_actions = 2131361911;
 			
 			// aapt resource value: 0x7f0a0036
 			public const int middle = 2131361846;
@@ -2076,9 +2106,6 @@ namespace MonkeyNights.Droid
 			
 			// aapt resource value: 0x7f0a0030
 			public const int multiply = 2131361840;
-			
-			// aapt resource value: 0x7f0a0074
-			public const int myButton = 2131361908;
 			
 			// aapt resource value: 0x7f0a006f
 			public const int navigation_header_container = 2131361903;
@@ -2203,8 +2230,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a001d
 			public const int start = 2131361821;
 			
-			// aapt resource value: 0x7f0a0077
-			public const int status_bar_latest_event_content = 2131361911;
+			// aapt resource value: 0x7f0a0076
+			public const int status_bar_latest_event_content = 2131361910;
 			
 			// aapt resource value: 0x7f0a0067
 			public const int submit_area = 2131361895;
@@ -2212,17 +2239,17 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0a0028
 			public const int tabMode = 2131361832;
 			
-			// aapt resource value: 0x7f0a007f
-			public const int text = 2131361919;
+			// aapt resource value: 0x7f0a007e
+			public const int text = 2131361918;
 			
-			// aapt resource value: 0x7f0a007d
-			public const int text2 = 2131361917;
+			// aapt resource value: 0x7f0a007c
+			public const int text2 = 2131361916;
 			
 			// aapt resource value: 0x7f0a004f
 			public const int textSpacerNoButtons = 2131361871;
 			
-			// aapt resource value: 0x7f0a007b
-			public const int time = 2131361915;
+			// aapt resource value: 0x7f0a007a
+			public const int time = 2131361914;
 			
 			// aapt resource value: 0x7f0a0045
 			public const int title = 2131361861;
@@ -2413,7 +2440,7 @@ namespace MonkeyNights.Droid
 			public const int design_navigation_menu_item = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int Main = 2130968613;
+			public const int MainView = 2130968613;
 			
 			// aapt resource value: 0x7f040026
 			public const int notification_media_action = 2130968614;
@@ -2449,7 +2476,10 @@ namespace MonkeyNights.Droid
 			public const int select_dialog_singlechoice_material = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int support_simple_spinner_dropdown_item = 2130968625;
+			public const int SplashScreen = 2130968625;
+			
+			// aapt resource value: 0x7f040032
+			public const int support_simple_spinner_dropdown_item = 2130968626;
 			
 			static Layout()
 			{
@@ -2465,7 +2495,7 @@ namespace MonkeyNights.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Icon = 2130903040;
+			public const int ic_launcher = 2130903040;
 			
 			static Mipmap()
 			{
@@ -2537,8 +2567,8 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f0b0015
 			public const int abc_toolbar_collapse_description = 2131427349;
 			
-			// aapt resource value: 0x7f0b0018
-			public const int app_name = 2131427352;
+			// aapt resource value: 0x7f0b0017
+			public const int app_name = 2131427351;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int appbar_scrolling_view_behavior = 2131427328;
@@ -2548,9 +2578,6 @@ namespace MonkeyNights.Droid
 			
 			// aapt resource value: 0x7f0b0002
 			public const int character_counter_pattern = 2131427330;
-			
-			// aapt resource value: 0x7f0b0017
-			public const int hello = 2131427351;
 			
 			// aapt resource value: 0x7f0b0016
 			public const int status_bar_notification_info_overflow = 2131427350;
@@ -3012,6 +3039,12 @@ namespace MonkeyNights.Droid
 			// aapt resource value: 0x7f060002
 			public const int Base_Widget_Design_TabLayout = 2131099650;
 			
+			// aapt resource value: 0x7f060158
+			public const int BaseTheme = 2131099992;
+			
+			// aapt resource value: 0x7f060157
+			public const int MonkeyTheme = 2131099991;
+			
 			// aapt resource value: 0x7f060030
 			public const int Platform_AppCompat = 2131099696;
 			
@@ -3341,6 +3374,9 @@ namespace MonkeyNights.Droid
 			
 			// aapt resource value: 0x7f06000f
 			public const int Theme_Design_NoActionBar = 2131099663;
+			
+			// aapt resource value: 0x7f060159
+			public const int Theme_Splash = 2131099993;
 			
 			// aapt resource value: 0x7f06010c
 			public const int ThemeOverlay_AppCompat = 2131099916;
