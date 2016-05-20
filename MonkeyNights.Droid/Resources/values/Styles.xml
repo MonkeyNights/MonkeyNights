@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<style name="MonkeyTheme" parent="BaseTheme">
 	</style>
@@ -10,7 +10,7 @@
 		<item name="colorAccent">@color/Accent</item>
 	</style>
 	<style name="Theme.Splash" parent="android:Theme">
-		<item name="android:windowBackground">@color/SplashGray</item>
+		<item name="android:windowBackground">@color/White</item>
 		<item name="android:windowNoTitle">true</item>
 	</style>
 </resources>
