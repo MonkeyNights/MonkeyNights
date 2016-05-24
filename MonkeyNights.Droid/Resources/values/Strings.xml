@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">MonkeyNights</string>
+	<string name="Webcasts">Webcasts</string>
+	<string name="LatestPosts">Últimos Posts</string>
+	<string name="MknOnFacebook">Monkey Nights no Facebook</string>
+	<string name="LatestArticles">Últimos Artigos</string>
+	<string name="MonkeyHub">Monkey Hub</string>
 </resources>

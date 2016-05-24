@@ -1,4 +1,5 @@
 ﻿using Android.OS;
+using Android.Support.V7.Widget;
 using MvvmCross.Droid.Support.V7.AppCompat;
 
 namespace MonkeyNights.Droid.Views
@@ -11,6 +12,9 @@ namespace MonkeyNights.Droid.Views
 		{
 			base.OnCreate(bundle);
 			SetContentView(LayoutId);
+
+			var toolbar = FindViewById<Toolbar>(Resource.Id.MainViewToolbar);
+			SetSupportActionBar(toolbar);
 		}
 	}
 }

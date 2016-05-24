@@ -9,4 +9,8 @@
 	<color name="Divider">#B6B6B6</color>
 	<color name="SplashGray">#FFEBECEA</color>
 	<color name="White">#FFFFFF</color>
+
+	<color name="YoutubeRed">#FFE52D27</color>
+	<color name="FacebookBlue">#FF3B5998</color> 
+	<color name="MonkeyNightsBlue">#FF3388B7</color>
 </resources>
