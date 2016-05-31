@@ -108,7 +108,7 @@
     <Compile Include="Views\MainView.cs" />
     <Compile Include="Bootstrap\JsonPluginBootstrap.cs" />
     <Compile Include="Views\Base\BaseView.cs" />
-    <Compile Include="Resources\values\Setup.cs" />
+    <Compile Include="Setup.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
